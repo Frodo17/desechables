@@ -35,6 +35,8 @@ Desechable es una aplicación móvil diseñada para verificar el saldo de las ta
 ### Pantalla de inicio
 ![Pantalla de inicio](https://media.licdn.com/dms/image/v2/D4E2DAQFzqZvyxWSGnQ/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1728498672153?e=1741024800&v=beta&t=sF9krFtx4DGoWYFHZu_3bARfEQ0FTCZOb-9PktJkKjg)
 
+<img src="https://media.licdn.com/dms/image/v2/D4E2DAQFzqZvyxWSGnQ/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1728498672153?e=1741024800&v=beta&t=sF9krFtx4DGoWYFHZu_3bARfEQ0FTCZOb-9PktJkKjg" width="300" alt="Pantalla de inicio">
+
 ### Pantalla de verificación de saldo e historial de operaciones
 ![Pantalla de verificación de saldo](https://media.licdn.com/dms/image/v2/D4E2DAQF5mxeBE9IdWQ/profile-treasury-image-shrink_1920_1920/profile-treasury-image-shrink_1920_1920/0/1728498685812?e=1741024800&v=beta&t=bMhxJLO09CkPcpqbWvThB4awjrtcFCJcurdKtroqTTE)
 
