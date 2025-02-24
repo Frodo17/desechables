@@ -42,4 +42,4 @@ Desechable es una aplicación móvil diseñada para verificar el saldo de las ta
 
 ## Nota Importante
 
-Posterior al ataque informatico a CIMEX el 26 de enero de 2024 el api quedo inactiva. Desconozco si funciona actualmente.
+Posterior al ataque informático a CIMEX el 26 de enero de 2024 el API quedó inactiva. Desconozco si funciona actualmente.
